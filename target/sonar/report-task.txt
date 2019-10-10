@@ -1,0 +1,6 @@
+projectKey=com.shopizer:shopizer
+serverUrl=http://192.168.102.101:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://192.168.102.101:9000/dashboard/index/com.shopizer:shopizer
+ceTaskId=AW2xmGSfHv5fidh0wtyH
+ceTaskUrl=http://192.168.102.101:9000/api/ce/task?id=AW2xmGSfHv5fidh0wtyH
